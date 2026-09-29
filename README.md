@@ -14,3 +14,6 @@ Description :A C program that determines whether an integer entered by the user 
 
 ## Exercise 4-basic loop
 Description:A C program that displays the numbers from 1 to 10 along with their squares, cubes, and fourth powers.How It Works;The program uses a "for" loop to count from 1 to 10 and displays each number, its square, cube, and fourth power in a tabular format.Source:Dietel & Dietel
+
+## Exercise 5-loop + calculation
+Description:A C program that calculates and displays the factorials of the numbers from 1 to 5.How It Works;The program uses a "for" loop to calculate each factorial. The factorial value is updated by multiplying it by the current number, then the number and its factorial are displayed in a table.Source:Dietel & Dietel

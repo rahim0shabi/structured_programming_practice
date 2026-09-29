@@ -23,3 +23,6 @@ Description:A C program that calculates the interest charge on a loan based on t
 
 ## Exercise 7_loop_decision
 Description: A C program that calculates new credit limits for customers after a recession and checks whether their current balances exceed the new limits.How It Works;The program accepts the customer's account number, previous credit limit, and current balance. It reduces the credit limit by half, then compares the current balance with the new credit limit and displays the result.Source:Dietel & Dietel
+
+## Exercise 8_interactive_program
+Description:This C program calculates the total sales amount based on the quantity of items sold and their price.How It Works;The program asks the user to enter the required sales information, performs the necessary calculations, and displays the total sales amount.Source: Dietel & Dietel

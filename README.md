@@ -15,5 +15,8 @@ Description :A C program that determines whether an integer entered by the user 
 ## Exercise 4-basic loop
 Description:A C program that displays the numbers from 1 to 10 along with their squares, cubes, and fourth powers.How It Works;The program uses a "for" loop to count from 1 to 10 and displays each number, its square, cube, and fourth power in a tabular format.Source:Dietel & Dietel
 
-## Exercise 5-loop + calculation
+## Exercise 5-loop_calculation
 Description:A C program that calculates and displays the factorials of the numbers from 1 to 5.How It Works;The program uses a "for" loop to calculate each factorial. The factorial value is updated by multiplying it by the current number, then the number and its factorial are displayed in a table.Source:Dietel & Dietel
+
+## Exercise 6_loop_input
+Description:A C program that calculates the interest charge on a loan based on the loan principal, interest rate, and loan term in days.How It Works;The program asks the user to enter the loan principal, interest rate, and term of the loan in days. It then calculates the interest using the formula "principal × rate × days / 365" and displays the interest charge. The program continues until the user enters "-1" for the loan principal.Source:Dietel & Dietel
